@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_readme_error"
+  site-url: "https://shym.github.io/nbdev_readme_error"
+  description: "minimal nbdev_readme error case"
+  repo-branch: main
+  repo-url: "https://github.com/shym/nbdev_readme_error"
